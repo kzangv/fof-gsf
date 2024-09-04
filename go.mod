@@ -1,4 +1,4 @@
-module gitee.com/kzangv/gsf-fof
+module github.com/kzangv/gsf-fof
 
 go 1.18
 
