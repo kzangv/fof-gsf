@@ -1,7 +1,7 @@
 package cache
 
 import (
-	"gitee.com/kzangv/gsf-fof/cron"
+	"github.com/kzangv/gsf-fof/cron"
 	"sync"
 	"testing"
 	"time"

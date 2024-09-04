@@ -2,7 +2,7 @@ package cron
 
 import (
 	"fmt"
-	"gitee.com/kzangv/gsf-fof/cron/schedule"
+	"github.com/kzangv/gsf-fof/cron/schedule"
 	"sync"
 	"testing"
 	"time"

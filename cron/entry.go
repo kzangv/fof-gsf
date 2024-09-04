@@ -1,7 +1,7 @@
 package cron
 
 import (
-	"gitee.com/kzangv/gsf-fof/cron/schedule"
+	"github.com/kzangv/gsf-fof/cron/schedule"
 	"time"
 )
 

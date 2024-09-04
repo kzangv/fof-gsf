@@ -2,7 +2,7 @@ package gsf
 
 import (
 	"errors"
-	"gitee.com/kzangv/gsf-fof/logger"
+	"github.com/kzangv/gsf-fof/logger"
 	"github.com/urfave/cli/v2"
 	"os"
 	"strings"

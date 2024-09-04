@@ -3,7 +3,7 @@ package gsf
 import (
 	"errors"
 	"fmt"
-	"gitee.com/kzangv/gsf-fof/logger"
+	"github.com/kzangv/gsf-fof/logger"
 	"github.com/urfave/cli/v2"
 	"math/rand"
 	"os"

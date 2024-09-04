@@ -1,8 +1,8 @@
 package cache
 
 import (
-	"gitee.com/kzangv/gsf-fof/cron"
-	"gitee.com/kzangv/gsf-fof/cron/schedule"
+	"github.com/kzangv/gsf-fof/cron"
+	"github.com/kzangv/gsf-fof/cron/schedule"
 )
 
 const (
